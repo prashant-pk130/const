@@ -1,0 +1,274 @@
+#color
+{
+    background-color:  #F2632E;
+    padding-bottom: 30px;
+}
+@media (max-width:768px)
+{
+    #color
+    {
+      text-align: center;
+    }
+    #cpp
+    {
+        padding-left: 2rem;
+    }
+    #fad
+    {
+        text-align: center;
+        width: 103%;
+        justify-content: center;
+        gap: 20px;
+    }
+    #back
+    {
+        background-size:contain;
+        background-position: 89% 100%;
+    }
+    nav
+    {
+        width: 100% !important;
+        align-items: center;
+        display: flex;
+    }
+    #button
+    {
+    font-weight: 400;
+    padding: 15px 40px 15px 40px;
+    }
+    footer
+    {
+        width: 100%;
+    }
+}
+.flex
+{
+    display: flex;
+    gap:10px;
+}
+#button
+{
+    font-family: "Open Sans", Sans-serif;
+    font-weight: 400;
+    fill: #F2632E;
+    color: #F2632E;
+    background-color: #FFFFFF;
+    padding: 18px 50px 18px 50px;
+    border-color: #F2632E;
+}
+nav
+{
+    background-color: black;
+    width: 100%;
+}
+#navbarSupportedContent
+{
+    justify-content: center;
+    gap: 20px;
+}
+nav
+{
+    height: 5rem;
+}
+#tex
+{
+    font-family: "Raleway", Sans-serif;
+    font-size: 13px;
+    font-weight: 600;
+}
+#fad
+{
+    text-align: center;
+    width: 100%;
+}
+#back
+{
+    background-image: url('../img/kaboomconcretepumping-slider-02-orange-new.jpg');
+    position: relative;
+    background-size: 100%;
+    height: 55vh;
+    background-size: cover;
+}
+#head
+{
+    font-size: 40px;
+    color: #1f1f1f!important;
+    line-height: 1.2em;
+    text-align: center;
+}
+#mar
+{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+.textt
+{
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-size: 1rem;
+    line-height: 1.7;
+    color: #777777;
+    text-align: center;
+}
+#inl
+{
+    color:#2ea3f2;
+    line-height: 1em;
+    font-weight:900 !important;
+    font-style: normal;
+}
+#cool
+{
+    height:auto;
+    
+}
+#ab
+{
+    width: 100%;
+    height: 15rem;
+  
+}
+#def
+{
+    color: #F2632E;
+   word-spacing: 7px;
+   letter-spacing: 3px;
+   font-weight: 400;
+}
+#pqr
+{
+    color: #777777;
+    text-align: center;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+}
+.co
+{
+    background-color: #f1f1f1bd;
+    margin-top: -2rem;
+    position: relative;
+}
+#def
+{
+    text-align: center;
+}
+.background
+{
+    background-image: url('https://www.kaboomconcretepumping.com.au/wp-content/uploads/2019/10/Resized_received_347307726218759.jpg');
+    position: relative;
+    height:auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#work
+{
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    font-size: 40px;
+    color: white;
+    line-height: 1.2em;
+    text-align: center;
+}
+#det
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#klm
+{
+    width: 70%;
+    height: 10rem;
+}
+#bnm
+{     
+    display: flex;
+    justify-content: flex-start;
+}
+#op
+{
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+    width: 100%;
+    height: 80%;
+}
+#po
+{
+    border-radius: 1rem;
+    width: 100%;
+    height: 80%;
+}
+#gp
+{   display: flex;
+    gap: 2.5rem !important;
+}
+#sql
+{
+    color: #F2632E;
+    font-weight: 400;
+    font-size: 1.5rem;
+}
+#pql
+{
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    font-size: 1rem;
+    color: #777777;
+}
+#apl
+{
+    color:#2ea3f2;
+    font-style: normal; 
+    font-weight: 800;
+}
+#marg
+{
+    margin-top: -6rem;
+}
+#pqll
+{
+    font-family: "Open Sans", Helvetica, Arial, sans-serif;
+    color: #777777;
+    font-weight: 400;
+    line-height: 1.8em;
+    font-size: 16px;
+    line-height: 1.8em;
+    text-align: center;
+}
+#mnb
+{
+    width: 100%;
+}
+#fl
+{
+    display: flex;
+    gap:1.5rem;
+}
+#ccc
+{ 
+       border-right: 1px solid white;
+}
+#foot
+{
+    background-color: black;
+    width: 100%;
+}
+#last
+{
+    align-items: center;
+    text-align: center;
+}
+#symb
+{
+    color: #F2632E;
+    text-align: center;
+    font-size: 2rem;
+}
+.sticky
+{
+    position: fixed;
+    top:0;
+    z-index: 1;
+}
